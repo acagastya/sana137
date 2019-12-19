@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    author: `Sana`,
-    description: `Welcome to my website!`,
+    author: `@SanaHabeeb4`,
+    description: `Hi, I am Sanā!`,
     headerImg: `https://images.unsplash.com/photo-1536633125620-8a3245c11ffa`,
-    name: `Sana`,
-    photo: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMmVLtfjxqwhKZ7MR9I8SIn9s3LsN7l9z7vuIfjzYt97fN3B7&s`,
+    name: `Sanā Habeeb`,
+    photo: `https://pbs.twimg.com/profile_images/1116312044951744512/z9hsCRB7_400x400.jpg`,
     siteUrl: `https://sana137.in`,
-    title: `Sana's stories`,
+    title: `Sana’s stories`,
     homeName: `サナ`,
   },
   plugins: [
